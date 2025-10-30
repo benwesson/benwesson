@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Ben👋
+I am an aspiring web developer building fullstack apps. I have experince with collobartive software development and project design. I am passioante about improving my skills and exploring the world of software. 
 
+Top Skills:
+JavaScript, TypeScript, React, Next.js, Prisma ORM
+
+Top Projects:
 <!--
 **benwesson/benwesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

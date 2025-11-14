@@ -1,5 +1,5 @@
 # Hi, I'm Ben👋
-I am an aspiring web developer building fullstack apps. I have experince with collobartive software development and project design. I am passioante about improving my skills and exploring the world of software. 
+I am an aspiring web developer building fullstack apps. I have experince with collobartive software development and project design. I am passionate about improving my skills and exploring the world of software. 
 ___
 ### Top Skills:
 

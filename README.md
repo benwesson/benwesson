@@ -11,7 +11,7 @@ ___
 
 [__Stock Dashboard__](https://github.com/benwesson/ben_stock_dashboard)
 
-A site where users can practice buying and selling stocks. Users can login using their gmail to save their mock portfolio. The site uses the marketstack api so the prices of the user's stocks are accuarate. In addition, the portfolio chart can track a hundred days of a stock's perfomance with accurate figures in USD. Users can own up to 4 distinct stocks and 3 seperate buy orders of a given stock. This data is stored using Neon serverless postgress and intuively interacts with my Next.js app using Prisma ORM. The site also supports langauge translation in English, Spanish and French using the next-intl library. 
+A site where users can practice buying and selling stocks. Users can login using their gmail to save their mock portfolio. The site uses the marketstack api so the prices of the user's stocks are accuarate. In addition, the portfolio chart can track a hundred days of a stock's perfomance with accurate figures in USD. Users can own up to 4 distinct stocks and 3 seperate buy orders of a given stock. This data is stored using Neon serverless postgress and intuitively interacts with my Next.js app using Prisma ORM. The site also supports langauge translation in English, Spanish and French using the next-intl library. 
 
 
 [__Food Blog__](https://github.com/benwesson/ben_blog_layout)
